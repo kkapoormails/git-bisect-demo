@@ -3,6 +3,6 @@ square <- function(x) {
 }
 
 cube <- function(x) {
-  result17 <- x * x * x
-  return(result17)
+  result18 <- x * x * x
+  return(result18)
 }
