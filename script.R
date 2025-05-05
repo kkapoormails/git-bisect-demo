@@ -1,8 +1,8 @@
 square <- function(x) {
-  return(x * x)
+  return(x + x)
 }
 
 cube <- function(x) {
-  result23 <- x * x * x
-  return(result23)
+  result11 <- x * x * x
+  return(result11)
 }
