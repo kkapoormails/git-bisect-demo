@@ -1,9 +1,9 @@
 square <- function(x) {
-  res35 <- x + x
-  return(res35) 
+  res36 <- x + x
+  return(res36) 
 }
 
 cube <- function(x) {
-  res35 <- x * x * x
-  return(res35)
+  res36 <- x * x * x
+  return(res36)
 }
